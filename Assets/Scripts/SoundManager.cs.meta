@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7c98272a98723aa41bce0b9229d676a7
+timeCreated: 1553044987
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jump: {fileID: 8300000, guid: c18372f23d618aa4f89b743fd055526e, type: 3}
+  - getCoin: {fileID: 8300000, guid: 6cee0510c49630849a1eb5c66caddb1a, type: 3}
+  - rockSmash: {fileID: 8300000, guid: 17e4f8a0978f21a49ad1f59f87a6900e, type: 3}
+  - mannyDies: {fileID: 8300000, guid: fcfe2ce254190a54b98064c9642a06ca, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
